@@ -11,3 +11,12 @@ div{
     width: 20%;
     height: 20%;
 }
+
+.container{
+    text-align: center;
+}
+
+.selector { 
+    display: inline-block;
+}
+
