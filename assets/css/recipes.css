@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    background: #fae3a5;
+    background: radial-gradient(circle, rgba(250,227,165,1) 62%, rgba(199,180,130,1) 100%);
+    
+}
+
+.container{
+    border: 2px solid red;
+    height: 900px;
+    width: 1200px;
+    display: flex;
+}
+
+.title{
+    flex: 1;
+}
+.title img{
+    width: 120px;
+    height: 120px;
+}
+
+.ingredients{
+    flex: 1;
+}
+
+.steps{
+    flex:1;
+}
